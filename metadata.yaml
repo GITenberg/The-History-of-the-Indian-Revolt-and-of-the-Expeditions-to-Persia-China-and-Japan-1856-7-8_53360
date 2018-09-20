@@ -1,0 +1,30 @@
+_repo: The-History-of-the-Indian-Revolt-and-of-the-Expeditions-to-Persia-China-and-Japan-1856-7-8_53360
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dodd, George
+    birthdate: 1808
+    deathdate: 1881
+    gutenberg_agent_id: '47333'
+    url: http://www.gutenberg.org/2009/agents/47333
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2016-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858'
+- !lcsh 'Japan -- Foreign relations -- Great Britain'
+- !lcsh 'China -- History -- Foreign intervention, 1857-1861'
+- !lcsh 'Iran -- History -- War with Great Britain, 1856-1857'
+- !lcc 'DS'
+- !lcsh 'Great Britain -- Foreign relations -- Japan'
+- GITenberg
+title: The History of the Indian Revolt and of the Expeditions to Persia, China and
+  Japan, 1856-7-8
+url: http://www.gutenberg.org/ebooks/53360
